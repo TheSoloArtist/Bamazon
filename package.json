@@ -8,20 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/bamazon.git"
+    "url": "git+git@github.com:TheSoloArtist/Bamazon.git"
   },
   "keywords": [
     "storefront",
     "CLI-storefront",
     "store"
   ],
-  "author": "Anna D Derbakova",
+  "author": "Michael Solorzano",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/angrbrd/bamazon/issues"
-  },
-  "homepage": "https://github.com/angrbrd/bamazon#readme",
-  "dependencies": {
+    "dependencies": {
     "inquirer": "^3.0.6",
     "mysql": "^2.13.0"
   }
